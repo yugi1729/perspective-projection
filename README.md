@@ -1,10 +1,9 @@
-# Assignment 2 
-# Perspective Projection Python Code
+# Perspective Projection 
 
 
 ## Requirements
 
-Please install requirements before running the code :
+install requirements before running the code :
 
 - Python 3.x installed on your system.
 - `pip install -r requirements`
